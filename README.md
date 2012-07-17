@@ -10,10 +10,10 @@ Tested with Ruby 1.9.3 but should work with earlier versions.
 
 ## Installation
 
-git clone git://github.com/victorgrey/email_addresses_parser.git
-cd email_addresses_parser
-gem build email_addresses_parser.gemspec
-(sudo) gem install email_addresses_parser-x.x.x.gem
+1. git clone git://github.com/victorgrey/email_addresses_parser.git
+2. cd email_addresses_parser
+3. gem build email_addresses_parser.gemspec
+4. (sudo) gem install email_addresses_parser-x.x.x.gem
 
 ## Usage
 
